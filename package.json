@@ -1,0 +1,14 @@
+{
+  "name": "postways-core-ui",
+  "version": "0.0.0",
+  "author": "postways",
+  "license": "MIT",
+  "description": "Postways core ui",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  }
+}
